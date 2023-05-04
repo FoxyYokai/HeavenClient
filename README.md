@@ -1,6 +1,8 @@
 # HeavenClient
 HeavenClient is a custom, made-from-scratch game client.
 
+--THIS IS A PUBLIC COPY OF THE HEAVENCLIENT PROJECT, SINCE THE ORIGINAL WAS DELETED. I AM IN NO WAY AFFILIATED WITH THE ORIGINAL AUTHORS--
+
 # Supported versions
 - The client is currently compatible with version 83 servers.
 - The client has only been tested with [HeavenMS].
@@ -61,7 +63,7 @@ If you experience any kind of in-game glitches, UI rendering issues, or anything
 The latest build ([a3a9500][commit]) can be found here: [HeavenClient.rar]
 
 # Donations
-If you feel obligated to donate, to further help and support all parties involved in the development of the HeavenClient project, you can donate using [this][donate] link.
+[[REMOVED DONATION LINK]]
 
 Please remember this is ONLY for the HeavenClient development and will only be used in the support of helping further develop the client. *Also please remember to support Nexon as this is not meant to replace anything Nexon offers*
 
@@ -80,4 +82,3 @@ Another important note to remember is that HeavenClient is a free open-sourced c
 [Asio]:              http://think-async.com/
 [commit]:            https://github.com/HeavenClient/HeavenClient/commit/a3a95007495b6cded5e34af840a1354fd012c4e0
 [HeavenClient.rar]:  https://drive.google.com/file/d/1--KgFBFqrD6_-07cD-S8dpEimbq5tq0t/view?usp=sharing
-[donate]:            https://www.paypal.com/donate?business=MZDZLUH2UC5FE&no_recurring=0&currency_code=USD
